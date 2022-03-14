@@ -18,4 +18,6 @@ The first part of the project is [Data Extraction and Cleaning](https://github.c
 We used the CVS of the [Scraped Data](https://github.com/juanm-vallejo/Market-Research/blob/main/ScrapedData.cvs).
 Also an [excel](https://github.com/juanm-vallejo/Market-Research/blob/main/Stradario_del_Comune_di_Napoli_ordinato_per_municipalita_quartieri_toponimi_aggiornato_al_2_12_2019.xlsx) form the [naples city webpage](https://www.comune.napoli.it/home) to broad our information. Also this last process allow us to use the information from the Italian [National Institute of Statistics](https://www.istat.it/).  
 
+The output of this process is the [df](https://github.com/juanm-vallejo/Market-Research/blob/main/df) dataframe.
+
 The second part of the project consists in the [Exploratory Analysis]. Here we will perform the statistical analysis and the data presentation. According to the insights achieved, we could provide important decision-making information.
