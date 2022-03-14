@@ -20,6 +20,6 @@ Also an [excel](https://github.com/juanm-vallejo/Market-Research/blob/main/Strad
 
 The output of this process is the [df](https://github.com/juanm-vallejo/Market-Research/blob/main/df) dataframe.
 
-##Exploratory Analysis:
+## Exploratory Analysis:
 
 The second part of the project consists in the [Exploratory Analysis]. Here we will perform the statistical analysis and the data presentation. According to the insights achieved, we could provide important decision-making information.
