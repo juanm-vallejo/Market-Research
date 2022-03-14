@@ -4,10 +4,10 @@ The following project is a exploratory quantitative market research on the Naple
 
 ## Objectives:
 
-###The main objective of the research:
+**The main objective of the research:**
 - to compehend the composition of the naples restaurats offer.
 
-###The secondary objectives: 
+**The secondary objectives:**
 - Discern the most developed restaurant's offer niche.
 - Descirbe the ocio and restaurant needs of the neapolitans.
 
