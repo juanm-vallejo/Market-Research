@@ -22,4 +22,4 @@ The output of this process is the [df](https://github.com/juanm-vallejo/Market-R
 
 ## Exploratory Analysis:
 
-The second part of the project consists in the [Exploratory Analysis]([https://github.com/juanm-vallejo/Market-Research/blob/main/Data%20Extraction%20and%20Cleaning.ipynb](https://github.com/juanm-vallejo/Market-Research/blob/main/Exploratory.ipynb)). Here we will perform the statistical analysis and the data presentation. According to the insights achieved, we could provide important decision-making information.
+The second part of the project consists in the [Exploratory Analysis](https://github.com/juanm-vallejo/Market-Research/blob/main/Exploratory.ipynb)). Here we will perform the statistical analysis and the data presentation. According to the insights achieved, we could provide important decision-making information.
